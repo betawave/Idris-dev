@@ -331,3 +331,17 @@ continuation ``k`` are different depending on whether the result is
 ``True`` (opening succeeded) or ``False`` (opening failed). This uses
 ``validFile``, defined in the ``Prelude``, to test whether a file
 handler refers to an open file or not.
+
+
+*********************************************
+Creating Effects in Terms of Existing Effects
+*********************************************
+
+Constraining Effects
+====================
+
+Extending Effects
+=================
+
+Merging Effects
+===============
